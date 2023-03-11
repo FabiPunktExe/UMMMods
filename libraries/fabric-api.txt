@@ -1,7 +1,7 @@
 name;Fabric Api
 description;Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
 tags;library
-mod;fabric-api-1.14.4;fabric-1.14.4;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5%2B1.14/fabric-api-0.28.5%2B1.14.jar;
+mod;fabric-api-1.14.4;fabric-1.14.4;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5%2B1.14/fabric-api-0.28.5%2B1.14.jar
 mod;fabric-api-1.15;fabric-1.15;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.24%2Bbuild.279-1.15/fabric-api-0.4.24%2Bbuild.279-1.15.jar
 mod;fabric-api-1.15.1;fabric-1.15.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.27%2Bbuild.286-1.15/fabric-api-0.4.27%2Bbuild.286-1.15.jar
 mod;fabric-api-1.15.2;fabric-1.15.2;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5%2B1.15/fabric-api-0.28.5%2B1.15.jar
