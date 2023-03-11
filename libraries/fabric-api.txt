@@ -1,0 +1,22 @@
+name;Fabric Api
+description;Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+tags;library
+fabric-api-1.14.4;fabric-1.14.4;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5%2B1.14/fabric-api-0.28.5%2B1.14.jar;
+fabric-api-1.15;fabric-1.15;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.24%2Bbuild.279-1.15/fabric-api-0.4.24%2Bbuild.279-1.15.jar
+fabric-api-1.15.1;fabric-1.15.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.27%2Bbuild.286-1.15/fabric-api-0.4.27%2Bbuild.286-1.15.jar
+fabric-api-1.15.2;fabric-1.15.2;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5%2B1.15/fabric-api-0.28.5%2B1.15.jar
+fabric-api-1.16;fabric-1.16;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.13.1%2Bbuild.370-1.16/fabric-api-0.13.1%2Bbuild.370-1.16.jar
+fabric-api-1.16.1;fabric-1.16.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.18.0%2Bbuild.387-1.16.1/fabric-api-0.18.0%2Bbuild.387-1.16.1.jar
+fabric-api-1.16.2;fabric-1.16.2;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.20.1%2Bbuild.401-1.16/fabric-api-0.20.1%2Bbuild.401-1.16.jar
+fabric-api-1.16.3;fabric-1.16.3;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.25.0%2Bbuild.415-1.16/fabric-api-0.25.0%2Bbuild.415-1.16.jar
+fabric-api-1.16.4;fabric-1.16.4;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.29.3%2B1.16/fabric-api-0.29.3%2B1.16.jar
+fabric-api-1.16.5;fabric-1.16.5;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0%2B1.16/fabric-api-0.42.0%2B1.16.jar
+fabric-api-1.17;fabric-1.17;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.36.0%2B1.17/fabric-api-0.36.0%2B1.17.jar
+fabric-api-1.17.1;fabric-1.17.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.1%2B1.17/fabric-api-0.46.1%2B1.17.jar
+fabric-api-1.18;fabric-1.18.;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0%2B1.18/fabric-api-0.44.0%2B1.18.jar
+fabric-api-1.18.1;fabric-1.18.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.6%2B1.18/fabric-api-0.46.6%2B1.18.jar
+fabric-api-1.18.2;fabric-1.18.2;;https://cdn.modrinth.com/data/P7dR8mSH/versions/1cCEN67v/fabric-api-0.75.1%2B1.18.2.jar
+fabric-api-1.19;fabric-1.19;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.0%2B1.19/fabric-api-0.58.0%2B1.19.jar
+fabric-api-1.19.1;fabric-1.19.1;;https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.5%2B1.19.1/fabric-api-0.58.5%2B1.19.1.jar
+fabric-api-1.19.2;fabric-1.19.2;;https://cdn.modrinth.com/data/P7dR8mSH/versions/6iOab8Tp/fabric-api-0.75.1%2B1.19.2.jar
+fabric-api-1.19.3;fabric-1.19.3;;https://cdn.modrinth.com/data/P7dR8mSH/versions/nOI7bsDO/fabric-api-0.75.1%2B1.19.3.jar
