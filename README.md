@@ -13,9 +13,9 @@ Erstelle [hier](https://github.com/MrStupsi/UMMMods/issues/new?assignees=&labels
    name;Sodium
    description;Tolle Mod die mehr FPS bringt
    tags;graphics,utility
-   mod;sodium-1.18.2;fabric-1.18.2;https://tollewebsite.net/downloads/sodium-1.18.2.jar
-   mod;sodium-1.19.2;fabric-1.19.2;https://tollewebsite.net/downloads/sodium-1.19.2.jar
-   mod;sodium-1.19.3;fabric-1.19.3;https://tollewebsite.net/downloads/sodium-1.19.3.jar
+   mod;sodium-1.18.2;fabric-1.18.2;fabric-api-1.18.2;https://tollewebsite.net/downloads/sodium-1.18.2.jar
+   mod;sodium-1.19.2;fabric-1.19.2;;https://tollewebsite.net/downloads/sodium-1.19.2.jar
+   mod;sodium-1.19.3;fabric-1.19.3;cloth-config-1.19.3;https://tollewebsite.net/downloads/sodium-1.19.3.jar
    ```
 3. Du erstellst einen Pull Request und warte, bis deine Änderungen akzeptiert wurden
 4. Fertig :)
