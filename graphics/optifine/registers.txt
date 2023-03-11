@@ -1,1 +1,2 @@
-
+register;https://mrstupsi.github.io/UMMMods/graphics/optifine/optifine-forge.txt
+register;https://mrstupsi.github.io/UMMMods/graphics/optifine/optifine-fabric.txt
