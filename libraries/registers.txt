@@ -1,1 +1,1 @@
-
+register;https://raw.githubusercontent.com/MrStupsi/UMMMods/main/libraries/fabric-api.txt
