@@ -6,7 +6,7 @@ Dieses Repository ist das Modregister für UniversalModManager
 ### Mods wünschen:
 Erstelle [hier](https://github.com/MrStupsi/UMMMods/issues/new?assignees=&labels=mods&template=mod-wunsch.md&title=Mod+Wunsch%3A+%5BModname%5D) ein Issue und wünsche dir deine Mod
 
-### Wie du SELBST neue Mods hinzufügst:
+### Wie du SELBST neue Mods hinzufügen kannst:
 1. Du erstellst eine .txt Datei mit dem Namen von der Mod
 2. Die Datei befüllst nach folgendem muster:
    ```
