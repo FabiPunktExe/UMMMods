@@ -3,4 +3,4 @@ name;StupsiMod 1.19.3
 description;Der beste Minecraft Client, den es gibt
 version;fabric-1.19.3
 mod;stupsimod-1.19.3
-mod;optifine-1.19.3
+mod;optifine-fabric-1.19.3
