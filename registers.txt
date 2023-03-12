@@ -1,2 +1,3 @@
 register;https://mrstupsi.github.io/UMMMods/libraries/registers.txt
 register;https://mrstupsi.github.io/UMMMods/graphics/registers.txt
+register;https://mrstupsi.github.io/UMMMods/client/registers.txt
