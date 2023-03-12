@@ -1,0 +1,4 @@
+name;StupsiMod
+description;Ein toller Minecraft client
+tags;client
+mod;stupsimod-1.19.3;fabric-1.19.3;;http://diruptio.de/stupsimod/download/stupsimod-1.19.3-0.3.3.jar
